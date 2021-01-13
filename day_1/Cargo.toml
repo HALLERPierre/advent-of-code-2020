@@ -1,5 +1,5 @@
 [package]
-name = "advent-of-code-2021"
+name = "day_1"
 version = "0.1.0"
 authors = ["Pierre Haller <pierre@marmelab.com>"]
 edition = "2018"
